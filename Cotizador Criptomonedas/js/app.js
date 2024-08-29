@@ -1,7 +1,3 @@
-/**
- * VIDEO NO. 298 PRIMEROS PASOS CON EL PROYECTO
- */
-
 //Selectores
 const selectCripto = document.querySelector("#criptomonedas");
 const selectMoneda = document.querySelector("#moneda");
